@@ -1,0 +1,11 @@
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\ControlStock\bin\Debug\ControlStock.dll
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\ControlStock\bin\Debug\ControlStock.pdb
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.csprojAssemblyReference.cache
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.csproj.CoreCompileInputs.cache
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.dll
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.pdb
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\ControlStock\bin\Debug\ControlStock.dll
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\ControlStock\bin\Debug\ControlStock.pdb
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.csprojResolveAssemblyReference.cache
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.dll
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\ControlStock\obj\Debug\ControlStock.pdb

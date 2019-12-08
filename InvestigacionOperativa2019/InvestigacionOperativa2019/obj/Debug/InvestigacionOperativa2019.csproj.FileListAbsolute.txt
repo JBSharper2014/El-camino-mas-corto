@@ -1,0 +1,28 @@
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\InvestigacionOperativa2019.exe.config
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\InvestigacionOperativa2019.exe
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\InvestigacionOperativa2019.pdb
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.csprojAssemblyReference.cache
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.Form1.resources
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.Properties.Resources.resources
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.csproj.GenerateResource.cache
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.csproj.CoreCompileInputs.cache
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.exe
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.pdb
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\CaminoMasCorto.dll
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\ControlStock.dll
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\CaminoMasCorto.pdb
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\ControlStock.pdb
+C:\IntMain{}\Analista de sistemas\3er año\Investigacion Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.csproj.CopyComplete
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\InvestigacionOperativa2019.exe.config
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.exe
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.pdb
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\InvestigacionOperativa2019.exe
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\InvestigacionOperativa2019.pdb
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\CaminoMasCorto.dll
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\ControlStock.dll
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\CaminoMasCorto.pdb
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\bin\Debug\ControlStock.pdb
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.csprojResolveAssemblyReference.cache
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.Form1.resources
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.Properties.Resources.resources
+C:\Users\nanum\Desktop\TAS\TAS 3º\Inv. Operativa\InvestigacionOperativa2019\InvestigacionOperativa2019\obj\Debug\InvestigacionOperativa2019.csproj.GenerateResource.Cache
